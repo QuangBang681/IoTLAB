@@ -1,0 +1,3 @@
+0 Có người
+1 Không có người
+2 Vật phẩm
